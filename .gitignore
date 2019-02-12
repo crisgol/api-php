@@ -1,0 +1,6 @@
+# Components
+/api/config/core.php
+/api/config/database.php
+
+# Log
+/api/log/
